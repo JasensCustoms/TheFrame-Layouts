@@ -1,3 +1,6 @@
+# Files By JasensCustoms.com
++ Created for a customer, SPAAAACE! in our discord server. Posted with their permission.
+  
 # Top Panel 1.5mm Outer Plexi Panel
 +	The Taito vewlix layout with 100mm between the K1 button and lever
 +	Main Button holes are 30mm buttons
