@@ -1,0 +1,1 @@
+Overszied Frame Layout (edges overhang the case by 15mm all the way around) with a custom shape requested by the customer. Features Sega 2P layout with impact button and second 24mm button at the top. Features an OLED screen mount on inner panel.
